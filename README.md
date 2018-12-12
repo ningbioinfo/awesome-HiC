@@ -1,4 +1,4 @@
-# Awesome*HiC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome-HiC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Awesome collections of HiC-seq analysing softwares
 
