@@ -6,14 +6,14 @@ The eukaryotic genome have hierarchical three_dimensional conformation, where ph
 
 ## Contents
 
-- [Comprehensive pipelines](#Comprehensive pipelines)
+- [Comprehensive pipelines](#Comprehensive-pipelines)
 - [Toolkits](#Toolkits)
-- [Mapping & Filtering](#Mapping & Filtering)
+- [Mapping & Filtering](#Mapping-filtering)
 - [Normalisation](#Normalisation)
 - [Visualisation](#Visualisation)
-- [Significant contacts identification](#Significant contacts identification)
-- [Topologically*Associated Domains identification](#Topologically*associated domains identification)
-- [Other awesome softwares related to HiC-seq](#Other awesome softwares related to HiC-seq)
+- [Significant contacts identification](#Significant-contacts-identification)
+- [Topologically-Associated Domains identification](#Topologically-associated-domains-identification)
+- [Other awesome softwares related to HiC-seq](#Other-awesome-softwares-related-to-HiC-seq)
 
 --------------------------------------------------------------------------------
 
