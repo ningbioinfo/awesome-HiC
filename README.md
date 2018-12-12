@@ -1,19 +1,19 @@
-# Awesome-HiC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome*HiC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Awesome collections of HiC-seq analysing softwares
 
-The eukaryotic genome have hierarchical three-dimensional conformation, where physical contacts between chromatin have been proved to govern the regulation of gene expression. High-resolution chromosome conformation capture sequencing (HiC-seq) has been one of the most important methods to investigate the 3D genome since its first publication in 2009\. Since then, numerous of softwares and packages have been developed to facilitate the analysis of HiC-seq data.
+The eukaryotic genome have hierarchical three_dimensional conformation, where physical contacts between chromatin have been proved to govern the regulation of gene expression. High_resolution chromosome conformation capture sequencing (HiC-seq) has been one of the most important methods to investigate the 3D genome since its first publication in 2009\. Since then, numerous of softwares and packages have been developed to facilitate the analysis of HiC-seq data.
 
 ## Contents
 
-- [Comprehensive pipelines](## Comprehensive pipelines)
-- [Toolkits](## Toolkits)
-- [Mapping & Filtering](## Mapping & Filtering)
-- [Normalisation](## Normalisation)
-- [Visualisation](## Visualisation)
-- [Significant contacts identification](## Significant contacts identification)
-- [Topologically-Associated Domains identification](## Topologically-associated domains identification)
-- [Other awesome softwares related to HiC-seq](## Other awesome softwares related to HiC-seq)
+- [Comprehensive pipelines](#Comprehensive pipelines)
+- [Toolkits](#Toolkits)
+- [Mapping & Filtering](#Mapping & Filtering)
+- [Normalisation](#Normalisation)
+- [Visualisation](#Visualisation)
+- [Significant contacts identification](#Significant contacts identification)
+- [Topologically*Associated Domains identification](#Topologically*associated domains identification)
+- [Other awesome softwares related to HiC-seq](#Other awesome softwares related to HiC-seq)
 
 --------------------------------------------------------------------------------
 
@@ -41,9 +41,9 @@ _Softwares/packages to conduct visualisation of HiC-seq data_
 
 _Algorithms to identify significant contacts_
 
-## Topologically-Associated Domains identification
+## Topologically*Associated Domains identification
 
-_Algorithms to identify Topologically-Associated Domains (TADs)_
+_Algorithms to identify Topologically*Associated Domains (TADs)_
 
 ## Other awesome softwares related to HiC-seq
 
