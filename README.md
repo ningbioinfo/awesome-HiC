@@ -86,10 +86,12 @@ _Algorithms to identify Topologically-Associated Domains (TADs)_
 
 _Other softwares/packages_
 
-- [HiC-QC](https://github.com/ningbioinfostruggling/HiC-QC): QC for preliminary HiC libraries ![made-with-python](https://img.shields.io/badge/Python-organge.svg)
-- [Boost-HiC](https://github.com/LeopoldC/Boost-HiC): HiC patterns detection from low resolution HiC data ![made-with-python](https://img.shields.io/badge/Python-organge.svg)
-- [HiCPlus](https://github.com/zhangyan32/HiCPlus): Resolution Enhancement of HiC interaction heatmap ![made-with-python](https://img.shields.io/badge/Python-organge.svg)
+- [HiC-QC](https://github.com/ningbioinfostruggling/HiC-QC): QC for preliminary HiC libraries. ![made-with-python](https://img.shields.io/badge/Python-organge.svg)
+- [Boost-HiC](https://github.com/LeopoldC/Boost-HiC): HiC patterns detection from low resolution HiC data. ![made-with-python](https://img.shields.io/badge/Python-organge.svg)
+- [HiCPlus](https://github.com/zhangyan32/HiCPlus): Resolution Enhancement of HiC interaction heatmap. ![made-with-python](https://img.shields.io/badge/Python-organge.svg)
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
