@@ -4,7 +4,7 @@
 
 The eukaryotic genome have hierarchical three_dimensional conformation, where physical contacts between chromatin have been proved to govern the regulation of gene expression. High-resolution chromosome conformation capture sequencing (HiC-seq) has been one of the most important methods to investigate the 3D genome since its first publication in 2009\. Since then, numerous of softwares and packages have been developed to facilitate the analysis of HiC-seq data.
 
-Here is a curated **awesome** list of HiC-seq data related softwares and packages that are recommended to use for HiC data analysis and research.
+Here is a curated **awesome** list of HiC-seq data related softwares/packages/intro-papers that are recommended for HiC data analysis and research.
 
 Your contributions are always welcome!
 
@@ -18,6 +18,7 @@ Your contributions are always welcome!
 - [Significant contacts identification](#Significant-contacts-identification)
 - [Topologically-Associated Domains identification](#Topologically-associated-domains-identification)
 - [Other awesome HiC softwares](#Other-awesome-softwares-related-to-HiC-seq)
+- [HiC-seq introduction papers/tutorials](#HiC-seq-introduction-papers/tutorials)
 
 --------------------------------------------------------------------------------
 
@@ -89,6 +90,18 @@ _Other softwares/packages_
 - [HiC-QC](https://github.com/ningbioinfostruggling/HiC-QC): QC for preliminary HiC libraries. ![made-with-python](https://img.shields.io/badge/Python-organge.svg)
 - [Boost-HiC](https://github.com/LeopoldC/Boost-HiC): HiC patterns detection from low resolution HiC data. ![made-with-python](https://img.shields.io/badge/Python-organge.svg)
 - [HiCPlus](https://github.com/zhangyan32/HiCPlus): Resolution Enhancement of HiC interaction heatmap. ![made-with-python](https://img.shields.io/badge/Python-organge.svg)
+
+## HiC-seq introduction papers/tutorials
+
+_Introduction papers/tutorials of HiC-seq_
+
+- [Lieberman-Aiden, E., Van Berkum, N.L., Williams, L., Imakaev, M., Ragoczy, T., Telling, A., Amit, I., Lajoie, B.R., Sabo, P.J., Dorschner, M.O. and Sandstrom, R., 2009\. **Comprehensive mapping of long-range interactions reveals folding principles of the human genome.** science, 326(5950), pp.289-293.](http://science.sciencemag.org/content/326/5950/289) : The first paper describing HiC-seq.
+
+- [Grob, S. and Cavalli, G., 2018\. **Technical review: a Hitchhiker's guide to chromosome conformation capture. In Plant Chromatin Dynamics** (pp. 233-246). Humana Press, New York, NY.](https://link.springer.com/protocol/10.1007/978-1-4939-7318-7_14) : Awesome review of introducing all chromosome conformation capture assays.
+
+- [Schmitt, A.D., Hu, M. and Ren, B., 2016\. **Genome-wide mapping and analysis of chromosome architecture.** Nature reviews Molecular cell biology, 17(12), p.743.](https://www.nature.com/articles/nrm.2016.104#ref85) : Awesome review of HiC-seq normalisation methods and some of the TADs calling approaches.
+
+- [Rao, S.S., Huntley, M.H., Durand, N.C., Stamenova, E.K., Bochkov, I.D., Robinson, J.T., Sanborn, A.L., Machol, I., Omer, A.D., Lander, E.S. and Aiden, E.L., 2014\. **A 3D map of the human genome at kilobase resolution reveals principles of chromatin looping.** Cell, 159(7), pp.1665-1680.](https://www.sciencedirect.com/science/article/pii/S0092867414014974?via%3Dihub) : Highest resolution of HiC-seq data available, and includes an awesome video explaining the 3D genome.
 
 ## License
 
