@@ -12,13 +12,13 @@ Your contributions are always welcome!
 
 - [Comprehensive pipelines](#Comprehensive-pipelines)
 - [Toolkits](#Toolkits)
-- [Mapping & Filtering](#Mapping-filtering)
+- [Mapping and Filtering](#Mapping-filtering)
 - [Normalisation](#Normalisation)
 - [Visualisation](#Visualisation)
 - [Significant contacts identification](#Significant-contacts-identification)
 - [Topologically-Associated Domains identification](#Topologically-associated-domains-identification)
 - [Other awesome HiC softwares](#Other-awesome-softwares-related-to-HiC-seq)
-- [HiC-seq introduction papers/tutorials](#HiC-seq-introduction-papers/tutorials)
+- [HiC-seq introduction papers](#HiC-seq-introduction-papers)
 
 --------------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ _Toolkits that containing multiple tools to analyse HiC-seq data_
 - [TADbit](https://github.com/3DGenomes/TADbit) - It is a python library that contains multiple functions for analysing HiC data with its own TADs calling algorithm, and it has a well documented tutorial ![made-with-python](https://img.shields.io/badge/Python-organge.svg).
 - [HiTC](https://bioconductor.org/packages/release/bioc/html/HiTC.html) - It is developed by the author of HiC-Pro ![made-with-r](https://img.shields.io/badge/R-blue.svg).
 
-## Mapping & Filtering
+## Mapping and Filtering
 
 _Softwares/packages to conduct alignments and filtering of HiC-seq data_
 
@@ -90,7 +90,7 @@ _Other softwares/packages_
 - [Boost-HiC](https://github.com/LeopoldC/Boost-HiC) - HiC patterns detection from low resolution HiC data ![made-with-python](https://img.shields.io/badge/Python-organge.svg).
 - [HiCPlus](https://github.com/zhangyan32/HiCPlus) - Resolution Enhancement of HiC interaction heatmap ![made-with-python](https://img.shields.io/badge/Python-organge.svg).
 
-## HiC-seq introduction papers/tutorials
+## HiC-seq introduction papers
 
 _Introduction papers/tutorials of HiC-seq_
 
