@@ -92,13 +92,13 @@ _Other softwares/packages_
 
 _Introduction papers/tutorials of HiC-seq_
 
-- [Lieberman-Aiden, E., Van Berkum, N.L., Williams, L., Imakaev, M., Ragoczy, T., Telling, A., Amit, I., Lajoie, B.R., Sabo, P.J., Dorschner, M.O. and Sandstrom, R., 2009\. **Comprehensive mapping of long-range interactions reveals folding principles of the human genome.** science, 326(5950), pp.289-293.](http://science.sciencemag.org/content/326/5950/289) - The first paper describing HiC-seq.
+- [Comprehensive mapping of long-range interactions reveals folding principles of the human genome](http://science.sciencemag.org/content/326/5950/289) - The first paper describing HiC-seq.
 
-- [Grob, S. and Cavalli, G., 2018\. **Technical review: a Hitchhiker's guide to chromosome conformation capture. In Plant Chromatin Dynamics** (pp. 233-246). Humana Press, New York, NY.](https://link.springer.com/protocol/10.1007/978-1-4939-7318-7_14) - Awesome review of introducing all chromosome conformation capture assays.
+- [Technical review: a Hitchhiker's guide to chromosome conformation capture. In Plant Chromatin Dynamics](https://link.springer.com/protocol/10.1007/978-1-4939-7318-7_14) - Awesome review of introducing all chromosome conformation capture assays.
 
-- [Schmitt, A.D., Hu, M. and Ren, B., 2016\. **Genome-wide mapping and analysis of chromosome architecture.** Nature reviews Molecular cell biology, 17(12), p.743.](https://www.nature.com/articles/nrm.2016.104#ref85) - Awesome review of HiC-seq normalisation methods and some of the TADs calling approaches.
+- [Genome-wide mapping and analysis of chromosome architecture](https://www.nature.com/articles/nrm.2016.104#ref85) - Awesome review of HiC-seq normalisation methods and some of the TADs calling approaches.
 
-- [Rao, S.S., Huntley, M.H., Durand, N.C., Stamenova, E.K., Bochkov, I.D., Robinson, J.T., Sanborn, A.L., Machol, I., Omer, A.D., Lander, E.S. and Aiden, E.L., 2014\. **A 3D map of the human genome at kilobase resolution reveals principles of chromatin looping.** Cell, 159(7), pp.1665-1680.](https://www.sciencedirect.com/science/article/pii/S0092867414014974?via%3Dihub) - Highest resolution of HiC-seq data available, and includes an awesome video explaining the 3D genome.
+- [A 3D map of the human genome at kilobase resolution reveals principles of chromatin looping](https://www.sciencedirect.com/science/article/pii/S0092867414014974?via%3Dihub) - Highest resolution of HiC-seq data available, and includes an awesome video explaining the 3D genome.
 
 ## License
 
