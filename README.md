@@ -10,7 +10,7 @@ Your contributions are always welcome!
 
 ## Contents
 
-- [Comprehensive pipelines](#Comprehensive-pipelines)
+- [Pipelines](#Pipelines)
 - [Toolkits](#Toolkits)
 - [Mapping](#Mapping)
 - [Normalisation](#Normalisation)
@@ -22,7 +22,7 @@ Your contributions are always welcome!
 
 ---
 
-## Comprehensive pipelines
+## Pipelines
 
 _Pipelines to process HiC-seq data from raw/trimmed data input to interactions/matrices output_
 
