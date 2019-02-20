@@ -12,7 +12,7 @@ Your contributions are always welcome!
 
 - [Comprehensive pipelines](#Comprehensive-pipelines)
 - [Toolkits](#Toolkits)
-- [Mapping and Filtering](#Mapping-filtering)
+- [Mapping Filtering](#Mapping-filtering)
 - [Normalisation](#Normalisation)
 - [Visualisation](#Visualisation)
 - [Significant contacts identification](#Significant-contacts-identification)
@@ -37,7 +37,7 @@ _Toolkits that containing multiple tools to analyse HiC-seq data_
 - [TADbit](https://github.com/3DGenomes/TADbit) - A python library that contains multiple functions for analysing HiC data with its own TADs calling algorithm, and it has a well documented tutorial.
 - [HiTC](https://bioconductor.org/packages/release/bioc/html/HiTC.html) - Developed by the author of HiC-Pro.
 
-## Mapping and Filtering
+## Mapping Filtering
 
 _Softwares/packages to conduct alignments and filtering of HiC-seq data_
 
