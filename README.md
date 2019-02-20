@@ -10,7 +10,7 @@ Your contributions are always welcome!
 
 ## Contents
 
-- [Comprehensive pipelines](#ComprehensivePipelines)
+- [Comprehensive pipelines](#Comprehensive pipelines)
 - [Toolkits](#Toolkits)
 - [Mapping](#Mapping)
 - [Normalisation](#Normalisation)
