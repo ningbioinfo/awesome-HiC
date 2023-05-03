@@ -80,6 +80,10 @@ _Algorithms to identify Topologically-Associated Domains (TADs)_
 - [HiTAD](https://github.com/XiaoTaoWang/TADLib) - A python library and has a comprehensive documentation for all the functions.
 - [TopDom](http://zhoulab.usc.edu/TopDom/) - An easy to use R package.
 
+## Scaffold long read assemblies
+
+- [SALSA](https://github.com/marbl/SALSA) - Scaffold long read assemblies using HiC
+
 ## Other awesome softwares related to HiC-seq
 
 _Other softwares/packages_
